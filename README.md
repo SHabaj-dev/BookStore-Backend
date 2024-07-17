@@ -120,6 +120,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Author
 
 - [Shabaj Ansari](https://github.com/SHabaj.dev)
-```
-
-Replace placeholders like `your-username` and `Your Name` with your actual GitHub username and name before using this `README.md`.
